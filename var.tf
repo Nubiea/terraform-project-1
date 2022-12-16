@@ -1,0 +1,8 @@
+variable "terraformkey" {
+  type = string
+  default = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDI6awn0/Z6YLkcr/mJyQ48pHEj5MbPov4nWXpGBYUv3wdDDTZiFzUy2n2J7zG5i8sBSqh7vlmKaXaqR2GoUsLOUd3wstI9lqyTnKLh9SLzlo9rpZubW6UIfJyD2qUBhtQSui4JYCM3z96loVnSAF5SnAau++1NB7PrxdKEhgyRZKdPWthsTHd25+GoXOrHR6A+zXjQniGWEmi7ZET8YnYvx3cNN7K2k7n3J2/B9PwzX1xbzTPhdjb0XpTh3a/1Y2HKsQbSF6NAFZ9qa6opAQLBWdV4JXXwqFDeubFcAat1qNnGVg37tOCMLLz67k7bydkjV7k/4nNiOz0/qhiyxvZ6o8/PKfc95Huyy4FuK1na81Io5TGsLfVvaWg2ctZZ5yaJrsCBn3lk9Wt6NcaK3ZhjsBrd+1Aa8fpPz5tozenhum0VbL5f6B/BYzYAFGSYESUzJikylenQZ27LghMtr7whiGSuATwxLsMGYFlQJ50EQd0b8bIzxhe4+LE+sPe1UOs= nboch@DESKTOP-QLCC0MC"
+
+}
+variable "instance_type" {
+  
+}
